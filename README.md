@@ -1,6 +1,6 @@
 # Clickly Labs (Pages)
 
-Blog with thoughts brought from the future to innovate the present.
+Blog with future thoughts to innovate the present.
 
 Brought to you with ♡ from the [Clickly Team](https://clickly.co)
 
